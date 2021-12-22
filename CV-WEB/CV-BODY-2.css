@@ -1,0 +1,68 @@
+#divBody2
+{
+    width: 750px;
+    height: 560px;
+    display: block;
+}
+
+#divTitreBody2
+{
+    width: 110px;
+    display: inline-block;
+
+}
+
+#h3Experience
+{
+    position: relative;
+    bottom: 495px;
+}
+
+#divContenuExperience
+{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 600px;
+    display: inline-block;
+}
+
+.localisation
+{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 14px;
+    
+}
+
+.date
+{
+    font-style: italic; 
+    display: block;
+}
+
+.paragraphe
+{
+    font-size: 14px; 
+    display: block;  
+
+}
+
+.bold
+{
+    font-weight: bold;
+    display: block;
+
+}
+
+.italic
+{
+    font-size: 14px;
+    font-style: italic;
+}
+
+.italicBold
+{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 14px;
+}

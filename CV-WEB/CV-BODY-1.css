@@ -1,0 +1,62 @@
+.divSeparation
+{
+    width: 750px;
+    height: 30px;
+}
+
+#rectangleBody
+{
+    width:100px;
+    height:5px;
+    background: #566c7b;
+    display: block;
+}
+
+#ligneBody
+{
+    width:750px;
+    height:1px;
+    background: #566c7b;
+    display: block;
+}
+
+#divBody
+{
+    display: block;
+    width: 750px;
+}
+
+#titreBody
+{
+    color: black;
+    display: block;
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+#pBody
+{   
+    position: relative;
+    top: 10px;
+    margin-left: 10px;
+}
+
+.divH3
+{
+    display: inline-block;
+    width: 110px;
+} 
+  
+.divP
+{
+    margin-left: 20px;
+    margin-top: 5px;
+    display:inline-block;
+    width: 600px;
+}
+
+.listeCompetence
+{
+    display: inline-block;
+    width: 200px;
+}

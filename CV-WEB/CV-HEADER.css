@@ -1,0 +1,84 @@
+html 
+{ 
+    background-color: #DCDCDC; 
+} 
+
+body 
+{
+    min-height: 100vh;
+    max-width: 750px;
+    background-color: white; 
+    margin: 0 auto;
+}
+
+#rectangle{
+    width:750px;
+    height:30px;
+    background: #566c7b;
+    display: block;
+    
+}
+
+#triangle 
+{
+    width: 0;
+    height: 0;
+    margin-left: 115px;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 20px solid #566c7b;
+    display: block;
+}
+
+#imgProfile
+{
+    margin-left: 5px;
+    display: inline-block;
+    width: 120px;
+    height: 160px;
+
+}
+
+h1
+{
+    margin-left: 10px;
+    display: block;
+    font-weight: bold;
+    color: #566c7b
+}
+
+#h3Header
+{
+    margin-left: 10px;
+}
+
+.icone
+{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+}
+
+#pHeader
+{
+    margin-left: 10px;
+    display:inline;
+    position: relative;
+    bottom: 5px;
+}
+
+#divHeader
+{
+    display: inline-block;
+    width: 430px;;
+}
+
+#numero
+{
+    display: block;
+}
+
+#adresse
+{
+    display: block;
+}
